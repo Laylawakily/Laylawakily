@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Layla Wakily</h1>
+<h1 align="center">Hi 👋, I'm Layla, Laili , Lail</h1>
 <h3 align="center">A web developer from Afghanistan</h3>
 
 - 🔭 I’m **interested in learning exciting activities and reading.**
